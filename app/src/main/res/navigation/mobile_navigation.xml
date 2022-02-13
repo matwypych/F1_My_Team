@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_my_team">
+
+    <fragment
+        android:id="@+id/navigation_ranking_fantasy"
+        android:name="com.pfs.myteam.ui.ranking.RankingFragment"
+        android:label="@string/ranking"
+        tools:layout="@layout/fragment_ranking" />
+
+    <fragment
+        android:id="@+id/navigation_my_team"
+        android:name="com.pfs.myteam.ui.my_team.MyTeam"
+        android:label="@string/my_team"
+        tools:layout="@layout/fragment_my_team" />
+
+    <fragment
+        android:id="@+id/navigation_rewards"
+        android:name="com.pfs.myteam.ui.rewards.RewardsFragment"
+        android:label="@string/rewards"
+        tools:layout="@layout/fragment_rewards" />
+
+    <fragment
+        android:id="@+id/navigation_rules"
+        android:name="com.pfs.myteam.ui.rules.Rules"
+        android:label="@string/rules"
+        tools:layout="@layout/fragment_rewards" />
+</navigation>

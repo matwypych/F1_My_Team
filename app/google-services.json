@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "318526846418",
+    "project_id": "flutter-fantasy",
+    "storage_bucket": "flutter-fantasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318526846418:android:de4fbea860ec5eb750440b",
+        "android_client_info": {
+          "package_name": "com.fantasy.f1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hr5psOFUCzyVgto5pEWUmFbC2TY4vVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318526846418-4cogb1ik4pasi52kvsdgea4uj6jnb2t1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.f1.fantasy.pfs.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318526846418:android:d51878d6f349ef8250440b",
+        "android_client_info": {
+          "package_name": "com.pfs.fantasyf1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hr5psOFUCzyVgto5pEWUmFbC2TY4vVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318526846418-4cogb1ik4pasi52kvsdgea4uj6jnb2t1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.f1.fantasy.pfs.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318526846418:android:fe506d5f2a5495ce50440b",
+        "android_client_info": {
+          "package_name": "com.pfs.myteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hr5psOFUCzyVgto5pEWUmFbC2TY4vVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318526846418-2cq4sv8f1ja2n1l05ev7arcjkj5qq9qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318526846418-4cogb1ik4pasi52kvsdgea4uj6jnb2t1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.f1.fantasy.pfs.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
